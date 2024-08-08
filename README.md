@@ -10,7 +10,7 @@
 
 I am a Business Analyst at Amazon by day, and an aspiring Data Engineer/Machine Learning witch by night. I am currently working on my portfolio to leap into the world of data magic. Follow my journey as I code my way to my dream job! 
 
-## 🔨Toolbox:
+## 🔨My Toolbox:
 ![AmazonAWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
