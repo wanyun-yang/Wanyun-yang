@@ -1,4 +1,4 @@
-## 👋 Hi, my name is Wanyun! 
+## ☁️ Hi, I am Wanyun! ( My name means "Gentle Cloud" in Chinese <3
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanyun-yang/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanyun-yang)
